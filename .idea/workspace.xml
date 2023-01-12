@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d96ee622-73ce-45f5-a889-efce6c7cd11e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock_Market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stockmarket/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stockmarket/StockMarketMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stockmarket/StockPortfolio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stockmarket/StockPortfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stockmarket/StockPortfolio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
